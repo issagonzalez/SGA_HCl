@@ -34,7 +34,7 @@ db_sga = {
 }
 
 # 2. Carga del archivo SVG
-svg_path = "diagrama.svg"
+svg_path = "DTI Proceso HCl Sección 2.svg"
 
 try:
     with open(svg_path, "r", encoding="utf-8") as file:
